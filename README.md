@@ -23,8 +23,8 @@ Uses QMK firmware, keys in 2X2 Grid
 
 BOM:
 __________________________________________________________________________________
-4x Cherry MX Switches
-4x DSA Keycaps
-4x M3x16mm SHCS Bolts
-1x XIAO RP2040
-1x Case (2 printed parts)
+1. 4x Cherry MX Switches
+2. 4x DSA Keycaps
+3. 4x M3x16mm SHCS Bolts
+4. 1x XIAO RP2040
+5. 1x Case (2 printed parts)
